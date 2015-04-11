@@ -1,1 +1,1 @@
-include ':app', ':snap-mic'
+include ':app', ':snap-mic', ':video'

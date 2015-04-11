@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.croccio.smart_cot"
-        minSdkVersion 21
+        minSdkVersion 14
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
@@ -28,4 +28,5 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
     compile project(':snap-mic')
+    compile project(':video')
 }
