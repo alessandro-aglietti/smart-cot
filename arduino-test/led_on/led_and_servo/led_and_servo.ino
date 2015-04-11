@@ -48,7 +48,7 @@ void loop()
         } 
         else if(parseCommand(buf[0]) == 2){
           myservo.write(60);
-          delay(1000);
+        } else if(parseCommand(buf[0]) == 3){
           myservo.write(90);
         } 
       }
