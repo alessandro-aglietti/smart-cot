@@ -3,10 +3,10 @@
 #include <adk.h>
 #include <Servo.h>
 #define  LED_PIN  13
-#define  LED_PIN_SERVO 9
+#define  PIN_SERVO 9
 
 Servo myservo;
-int pos=0;
+
 // Accessory descriptor. It's how Arduino identifies itself to Android.
 char descriptionName[] = "ArduinoADK_2"; 
 char modelName[] = "UDOO_ADK";           // your Arduino Accessory name (Need to be the same defined in the Android App)
@@ -28,9 +28,14 @@ void setup()
 {
     Serial.begin(115200);   
     pinMode(LED_PIN, OUTPUT);
-    delay(500);
-    Serial.println("UDOO ADK demo start...");
-    myservo.attach(LED_PIN_SERVO);
+    
+    //setup and reset servo
+    myservo.attach(PIN_SERVO);
+    
+    // blink for fun
+    digitalWrite(LED_PIN, HIGH);
+    delay(100);
+    digitalWrite(LED_PIN, LOW);
 }
 
 void loop()
@@ -40,28 +45,29 @@ void loop()
     if (adk.isReady()) {
       adk.read(&bytesRead, RCVSIZE, buf);// read data into buf variable
       if (bytesRead > 0) {
-        if (parseCommand(buf[0]) == 1) {// compare received data
-          // Received "1" - turn on LED
-          digitalWrite(LED_PIN, HIGH);
-          Serial.println("Comando 1 ricevuto");
-        } else if (parseCommand(buf[0]) == 0) {
-          // Received "0" - turn off LED
-          digitalWrite(LED_PIN, LOW); 
-          Serial.println("Comando 0 ricevuto");
-        } 
-        else if(parseCommand(buf[0]) == 2){
-          Serial.println("Comando 2 ricevuto");
-          myservo.write(60);
-          //digitalWrite(LED_PIN_SERVO, HIGH);
-        } else if(parseCommand(buf[0]) == 3){
-          Serial.println("Comando 3 ricevuto");
-          myservo.write(90);
-          //digitalWrite(LED_PIN_SERVO, LOW);
-        } 
-      }
-    }  
+     
+        // trasmission blink    
+        digitalWrite(LED_PIN, HIGH);
+        delay(100);
+        digitalWrite(LED_PIN, LOW);
+        
+        for(int j=0; j<5; j++) {
+          
+           for(int i=80; i>50; i--) {
+              myservo.write(i);
+              delay(60);
+            }
+            
+            for(int i=50; i<80; i++) {
+              myservo.write(i);
+              delay(60);
+            }
+              
+        }
+    }
+  }
     
-    delay(10);
+  delay(10);
 }
 
 // the characters sent to Arduino are interpreted as ASCII, we decrease 48 to return to ASCII range.

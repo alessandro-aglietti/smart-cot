@@ -51,37 +51,42 @@ public class MyActivity extends Activity {
             }
         });
 
-        ((Button) findViewById(R.id.cullata)).setOnClickListener(new View.OnClickListener() {
+        ((Button) findViewById(R.id.register)).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d("toSerial", "write 2");
+                Log.d("register", "register");
                 try {
-                    mAdkManager.writeSerial("2");
+                    MyActivity.this.mAdkManager = new AdkManager((UsbManager) getSystemService(Context.USB_SERVICE));
+                    registerReceiver(mAdkManager.getUsbReceiver(), mAdkManager.getDetachedFilter());
+                    mAdkManager.open();
+                    Log.d("ADK manager", "available: " + mAdkManager.serialAvailable());
                 } catch (Exception e) {
                     Toast.makeText(MyActivity.this, ExceptionUtils.getStackTrace(e), Toast.LENGTH_LONG).show();
                 }
             }
         });
 
-        ((Button) findViewById(R.id.cullata2)).setOnClickListener(new View.OnClickListener() {
+        ((Button) findViewById(R.id.unregister)).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d("toSerial", "write 3");
+                Log.d("unregister", "unregister");
                 try {
-                    mAdkManager.writeSerial("3");
+                    mAdkManager.close();
+                    unregisterReceiver(mAdkManager.getUsbReceiver());
                 } catch (Exception e) {
                     Toast.makeText(MyActivity.this, ExceptionUtils.getStackTrace(e), Toast.LENGTH_LONG).show();
                 }
             }
         });
 
-        Log.d("ADK manager", "available: " + mAdkManager.serialAvailable());
+
     }
 
     @Override
     protected void onResume() {
         super.onResume();
         mAdkManager.open();
+        Log.d("ADK manager", "available: " + mAdkManager.serialAvailable());
     }
 
     @Override

@@ -25,16 +25,16 @@
     <Button
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:id="@+id/cullata"
+    android:id="@+id/register"
     android:layout_below="@+id/ledButton"
-    android:text="cullata"
+    android:text="Register"
     />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/cullata2"
-        android:layout_below="@+id/cullata"
-        android:text="cullata2"
+        android:id="@+id/unregister"
+        android:layout_below="@+id/register"
+        android:text="Unregister"
         />
 </RelativeLayout>
