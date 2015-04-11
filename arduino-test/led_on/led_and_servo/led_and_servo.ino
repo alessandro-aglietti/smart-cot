@@ -3,6 +3,7 @@
 #include <adk.h>
 #include <Servo.h>
 #define  LED_PIN  13
+#define  LED_PIN_SERVO 9
 
 Servo myservo;
 int pos=0;
@@ -29,7 +30,7 @@ void setup()
     pinMode(LED_PIN, OUTPUT);
     delay(500);
     Serial.println("UDOO ADK demo start...");
-    myservo.attach(6);
+    myservo.attach(LED_PIN_SERVO);
 }
 
 void loop()
@@ -42,18 +43,22 @@ void loop()
         if (parseCommand(buf[0]) == 1) {// compare received data
           // Received "1" - turn on LED
           digitalWrite(LED_PIN, HIGH);
+          Serial.println("Comando 1 ricevuto");
         } else if (parseCommand(buf[0]) == 0) {
           // Received "0" - turn off LED
           digitalWrite(LED_PIN, LOW); 
+          Serial.println("Comando 0 ricevuto");
         } 
         else if(parseCommand(buf[0]) == 2){
+          Serial.println("Comando 2 ricevuto");
           myservo.write(60);
+          //digitalWrite(LED_PIN_SERVO, HIGH);
         } else if(parseCommand(buf[0]) == 3){
+          Serial.println("Comando 3 ricevuto");
           myservo.write(90);
+          //digitalWrite(LED_PIN_SERVO, LOW);
         } 
       }
-    } else {
-      digitalWrite(LED_PIN , LOW); // turn off light
     }  
     
     delay(10);

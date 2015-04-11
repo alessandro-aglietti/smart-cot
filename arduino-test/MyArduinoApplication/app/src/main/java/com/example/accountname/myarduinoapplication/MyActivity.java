@@ -18,7 +18,7 @@ public class MyActivity extends Activity {
 
     private AdkManager mAdkManager;
 
-    @Overridex
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
@@ -45,6 +45,12 @@ public class MyActivity extends Activity {
             }
         });
 
+        ((Button)findViewById(R.id.cullata2)).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                mAdkManager.writeSerial("3");
+            }
+        });
 
         Log.d("ADK manager", "available: " + mAdkManager.serialAvailable());
     }
