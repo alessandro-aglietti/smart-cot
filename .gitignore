@@ -1,1 +1,8 @@
 baas/MyFirebaseClient/.idea
+*.iml
+*.bin
+cache.properties.lock
+baas/MyFirebaseClient/.idea
+baas/MyFirebaseClient/app/build
+baas/MyFirebaseClient/build
+arduino-test/MyArduinoApplication/.idea
