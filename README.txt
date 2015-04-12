@@ -1,6 +1,7 @@
 # Artemide SMART COT
 A smart cot for babies powerd by udoo and atooma
 https://docs.google.com/presentation/d/1LSsustFmqKoy-VrjpKCEiHbxDN1pICYLnDkx9wcbiB8/edit
+https://docs.google.com/presentation/d/1PcpP49X8im8eamwyxYZzA6BprLfUOy-zx6ya733FbL0/present
 
 ###  GRAV CREW
 bosiohal@gmail.com
