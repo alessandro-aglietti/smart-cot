@@ -18,7 +18,7 @@ public class PlayVideo {
     private static ProgressDialog progressDialog;
     private static MediaController mediaControls;
 
-    public static void play(Context context, VideoView videoView, int video) {
+    public static void play(Context context, VideoView videoView) {
         myVideoView = videoView;
 
         if (mediaControls == null) {
@@ -33,7 +33,7 @@ public class PlayVideo {
         try {
             myVideoView.setMediaController(mediaControls);
 
-            myVideoView.setVideoURI(Uri.parse("android.resource://" + context.getPackageName() + "/" + video));
+            myVideoView.setVideoPath("/sdcard/Download/ninna_nanna.mp4");
 
         } catch (Exception e) {
             Log.e("Error", e.getMessage());

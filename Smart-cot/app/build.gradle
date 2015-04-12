@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.croccio.smart_cot"
-        minSdkVersion 14
-        targetSdkVersion 21
+        minSdkVersion 15
+        targetSdkVersion 17
         versionCode 1
         versionName "1.0"
     }
@@ -22,6 +22,15 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+    }
+
 }
 
 dependencies {
@@ -29,4 +38,8 @@ dependencies {
 
     compile project(':snap-mic')
     compile project(':video')
+
+    compile 'me.palazzetti:adktoolkit:0.2.0'
+    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'com.firebase:firebase-client-android:2.2.3+'
 }
