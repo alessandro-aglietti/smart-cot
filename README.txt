@@ -4,6 +4,9 @@ https://docs.google.com/presentation/d/1LSsustFmqKoy-VrjpKCEiHbxDN1pICYLnDkx9wcb
 and on UDOO projects
 http://www.hackster.io/grav/artemide-smart-cot
 
+Some images
+https://docs.google.com/presentation/d/1PcpP49X8im8eamwyxYZzA6BprLfUOy-zx6ya733FbL0/present
+
 ###  GRAV CREW
 bosiohal@gmail.com
 citgianni1995@gmail.com
