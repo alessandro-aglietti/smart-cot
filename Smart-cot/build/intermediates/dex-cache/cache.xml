@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-5e1603fbd02d03d1eaa6cf6b9512f076a3b51368.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-895e8d2f3f6bf4a3c66451ea4776689935b7e93c.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-fd8dbe34c3c5a05ad10564a3d349e85f7a0d62eb.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-c3bdf961c6de2e39c4e8a25adcbd70ab4018b9dd.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/Smart-cot/snap-mic/unspecified/libs/snapback-android-sdk-0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4664664f7f6b496481c52263d2562d1d2b0d2d7c">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/snapback-android-sdk-0.5-394bef80e651cccf67960c0245ca4d8a822c5f30.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-a4c66f56b81989d7500fe1231cd3248bc5d5ca7a.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-98d98924ee850b882b0642fbcde10f1441ce2b0b.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-b504bcd680da62004e8ad7b752ebc071f2d4708a.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-2bca373c03014dc7b5adb811f2ff3c7012141171.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-3dca5aac6f3a618f32ac8b862d783dd241abe2e2.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-647d5751896e1c19bb7148d06840b9e28524bdd0.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-494978662436cb15f7560a7b07a4d709e5b26993.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5aec7cb07ac9cd3a5af9d6133998a9837a696a13.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-14728d40f1e739be005d29d3cf52f4b3c4f55619.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-e79a1a7847aac9c1c2576a965815688c90a483a8.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-02e7e6f027621ac22b7a01b44667ea8d0ccc0990.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-a66eecdbfabfd8997586cc54d4f573bd731ce557.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-e63a7090eede0baf10b48f370ed140f42d32ddbc.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/Smart-cot/snap-mic/unspecified/libs/snapback-android-sdk-0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4664664f7f6b496481c52263d2562d1d2b0d2d7c">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/snapback-android-sdk-0.5-384c7b155492ef6e1cb2729d2e2dcff4f2057c48.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-d00ecd31df13d2b3c1af17e6512d725f13179080.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-5d56897c98e4ed7f11aa37b034a5e5ac85bb8a41.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-e23426675129aca373481d3ef288f078d05045ab.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-7b736ff79851e99c703f9f20d035c75b00758768.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-2fbe3e6a06ecfa8edd7f2536c0bfb275fe67fa7b.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-c16a4f2e7a455b83cf71850b420a9140bc8101d0.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-b5cde7e750c7157a60b3f75d5c60acd90e5c2fcd.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d8eabe216a4e3f4cc7db4c23c90a488f3db00e60.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-446460c3946a054cd67b48f297840544c3043dda.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-1f2ce813b65449c15e795125d98fdffbe205339f.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-606c425b4d0ffa184098e9938c9ce2b761b9f000.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-d7ad1d1ef7d95398f38bb1b2b9f1e3e305913c4c.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-695ead00a6accdbaf69d593acfd2b1275d60d6ff.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/Smart-cot/snap-mic/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="207146b9f2cfd481cb4773bffda1992a3d26bb69">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-f70bd26ade3e37b4f44d10b853cda097f6854c35.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-6c76419efce3cba4bdc6e8d4278860d102d0bbe1.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-b7a9b374569bb2940b417ed70c0b5f914aed6350.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-8794d7b173741612461e8cf2470af95a4d7b3d5c.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-283e72bd29220e642ab2980e3e41890063923d95.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-aa2d5a895ee1f844eb1959ac7d22198dba969bc4.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-34c7ead3c8f77a6579e2493389b4b547e1e31d8b.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-33d5e677e5f97fea8c4892b09e6070693d83e591.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-00d2e367faaf75b1d0a10d78667c3ccfcae768ae.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-94d43f8e6545b7d8b3ec34ac3155afdcaadf93e2.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-43c6b647707c0052fa93da57a9579e0986b92a20.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/Smart-cot/snap-mic/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e6a6ce4afd568c80520ce02f6323b30a48418d1">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-08cb481a6dfa7c94c5da131340f2bc534dcd2910.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-cdad987a286c1f26f43b0e6ef59b57426b92432f.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-22e3cd00bbc8b0d4d00313ea9af07440c84a421d.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-9853d0ec06330bf7cb45c71dff1a42031f180a4a.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/antonioscardigno/Downloads/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-0eabe3b127600c6cd7c8ffaf284ab665d946228a.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-d0a7093e3964c73fff33586bd116b5159aa97b2f.jar" />
+    </item>
+    <item
+        jar="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/exploded-aar/Smart-cot/video/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59de635c6f9756da40c3ffe6028310c3e824ffbc">
+        <dex dex="/Users/antonioscardigno/Desktop/smart-cot-clone/Smart-cot/app/build/intermediates/pre-dexed/debug/classes-4db924039825db751cec4fac8bdbf3e0b21f5e20.jar" />
+    </item>
+
+</items>
