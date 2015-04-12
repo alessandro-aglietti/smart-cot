@@ -4,7 +4,7 @@
 
 
     <!-- Allows USB Accessory features -->
-    <uses-feature android:name="android.hardware.usb.accessory" />
+    
 
     <uses-sdk
         android:minSdkVersion="15"
