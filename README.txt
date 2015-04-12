@@ -9,8 +9,8 @@ https://docs.google.com/presentation/d/1PcpP49X8im8eamwyxYZzA6BprLfUOy-zx6ya733F
 
 ###  GRAV CREW
 bosiohal@gmail.com
-citgianni1995@gmail.com
-cwz.scardegna@gmail.com
+citogianni1995@gmail.com
+cwz.scardigno@gmail.com
 http://aqquadro.it
 Robert Torello - ing.robert.torello@hotmail.it
 Valerio Cietto - siluxmedia@gmail.com - siluxmedia.wordpress.com
