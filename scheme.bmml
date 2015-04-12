@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1247" measuredH="412" mockupW="1215" mockupH="390">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="32" y="95" w="224" h="66" measuredW="139" measuredH="66" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Servo%20control%20the%20cot</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MultilineButton" x="366" y="73" w="231" h="111" measuredW="139" measuredH="66" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UDOO</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="237" y="282" w="153" h="66" measuredW="180" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microphone</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MultilineButton" x="405" y="282" w="153" h="66" measuredW="111" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LCD</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::MultilineButton" x="573" y="282" w="153" h="66" measuredW="61" measuredH="66" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Speakers</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Arrow" x="585" y="184" w="65" h="91" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="480" y="199" w="10" h="76" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Arrow" x="309" y="191" w="57" h="76" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="271" y="129" w="80" h="10" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="1055" y="22" w="192" h="390" measuredW="192" measuredH="390" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="192" h="390" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MultilineButton" x="27" y="73" w="138" h="66" measuredW="83" measuredH="66" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Atooma%0Anotification</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Arrow" x="665" y="129" w="375" h="10" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <stroke>dashed</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="718" y="73" w="270" h="54" measuredW="2074" measuredH="409" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>../../../Desktop/firebase_logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="775" y="139" w="-1" h="-1" measuredW="156" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>throught%20real-time%20internet</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
